@@ -3,7 +3,7 @@
 - Step 1: Tải và cài đặt Git: https://git-scm.com/downloads
 - Step 2: Đăng ký tài khoản trên github.com
 - Step 3: Gửi địa chỉ mail đăng ký github.com cho giảng viên để được mời làm cộng tác viên trên kho SysAdmin
-- Step 4: Truy cập kho SysAdmin để theo dõi nộp bài thực hành: https://github.com/dzokha1010/NetProg
+- Step 4: Truy cập kho NetProg để theo dõi nộp bài thực hành: https://github.com/dzokha1010/NetProg
 ## Clone and Push to NetProg
 - Step 1: Mở Command Prompt hoặc CMD trên Windows
 - Step 2: Thực hiện câu lệnh clone NetProg
